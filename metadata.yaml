@@ -1,0 +1,35 @@
+_repo: Don-Quijote-de-la-Mancha_66263
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Győry, Vilmos
+    gutenberg_agent_id: '53715'
+    url: http://www.gutenberg.org/2009/agents/53715
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Cervantes, Miguel de
+    - De Cervantes Saavedra, Miguel
+    - Saavedra, Miguel de Cervantes
+    - Saavedra, Miguel Cervantes
+    - Cervantes, Michel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_issued: '2021-09-11'
+identifiers:
+  gutenberg: '66263'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Don Quijote de la Mancha
+url: http://www.gutenberg.org/ebooks/66263
