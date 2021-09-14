@@ -1,10 +1,13 @@
 _repo: Don-Quijote-de-la-Mancha_66263
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Győry, Vilmos
     gutenberg_agent_id: '53715'
     url: http://www.gutenberg.org/2009/agents/53715
+covers:
+- cover_type: archival
+  image_path: 66263-h/images/cover.jpg
 creator:
   author:
     agent_name: Cervantes Saavedra, Miguel de
@@ -22,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66263#Don-Quijote-de-la-Mancha
 gutenberg_issued: '2021-09-11'
 identifiers:
   gutenberg: '66263'
